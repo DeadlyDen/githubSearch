@@ -1,0 +1,9 @@
+target/
+gen-external-apklibs/
+.idea/
+out/
+.navigation
+/classes
+*.log
+*.apk
+build/
